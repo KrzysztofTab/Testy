@@ -1,0 +1,2 @@
+# TestyManualne
+Przeprowadzone testy
